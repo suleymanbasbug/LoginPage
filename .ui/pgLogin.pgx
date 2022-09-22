@@ -1,0 +1,78 @@
+{
+	"components": [
+		{
+			"className": ".sf-page",
+			"id": "3a83-ca6f-b8f5-af73",
+			"initialized": true,
+			"props": {
+				"children": [
+					"41c9-1226-ef0e-0635",
+					"2be3-1887-2705-e9fa",
+					"de86-2e8a-4e97-1853",
+					"1ab7-d03e-bb5f-d38c"
+				],
+				"name": "pgLogin",
+				"orientation": "PORTRAIT",
+				"parent": null
+			},
+			"type": "Page",
+			"userProps": {},
+			"version": "0.10.3"
+		},
+		{
+			"className": ".sf-statusBar",
+			"id": "41c9-1226-ef0e-0635",
+			"props": {
+				"children": [],
+				"isRemovable": false,
+				"name": "statusBar",
+				"parent": "3a83-ca6f-b8f5-af73"
+			},
+			"type": "StatusBar",
+			"userProps": {}
+		},
+		{
+			"className": ".sf-headerBar",
+			"id": "2be3-1887-2705-e9fa",
+			"props": {
+				"children": [],
+				"isRemovable": false,
+				"name": "headerBar",
+				"parent": "3a83-ca6f-b8f5-af73",
+				"title": "pgLogin"
+			},
+			"type": "HeaderBar",
+			"userProps": {
+				"title": "pgLogin"
+			}
+		},
+		{
+			"className": ".sf-label .lblLogin",
+			"id": "de86-2e8a-4e97-1853",
+			"props": {
+				"children": [],
+				"name": "label1",
+				"parent": "3a83-ca6f-b8f5-af73",
+				"text": "Login"
+			},
+			"type": "Label",
+			"userProps": {
+				"text": "Login"
+			}
+		},
+		{
+			"className": ".sf-button",
+			"id": "1ab7-d03e-bb5f-d38c",
+			"props": {
+				"children": [],
+				"name": "button1",
+				"parent": "3a83-ca6f-b8f5-af73",
+				"text": "Login"
+			},
+			"type": "Button",
+			"userProps": {
+				"text": "Login"
+			}
+		}
+	]
+}

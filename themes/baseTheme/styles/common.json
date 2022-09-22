@@ -95,5 +95,9 @@
     "flexProps": {
       "justifyContent": "CENTER"
     }
+  },
+  ".lblLogin": {
+    "ellipsizeMode": "MIDDLE",
+    "textAlignment": "MIDCENTER"
   }
 }
